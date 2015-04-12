@@ -1,0 +1,10 @@
+{
+    "appName": {
+        "message": "lolametro",
+        "description": "The name of the application"
+    },
+    "appDescription": {
+        "message": "Figure out when to leave for the metro",
+        "description": "The description of the application"
+    }
+}
