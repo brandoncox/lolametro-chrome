@@ -295,9 +295,7 @@ module.exports = function (grunt) {
           buildnumber: true,
           background: {
             target: 'scripts/background.js',
-            exclude: [
-              'scripts/chromereload.js'
-            ]
+            exclude: []
           }
         },
         src: '<%= config.app %>',
