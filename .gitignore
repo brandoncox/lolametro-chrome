@@ -4,6 +4,7 @@ temp
 dist
 .sass-cache
 app/bower_components
+app/vendor
 test/bower_components
 
 # Logs
