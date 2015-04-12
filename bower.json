@@ -2,7 +2,8 @@
   "name": "lolametro-chrome",
   "version": "0.0.0",
   "dependencies": {
-	"bootstrap" : "3.3.4"
+	"bootstrap" : "3.3.4",
+	"react" : "0.13.1"
   	},
   "devDependencies": {}
 }
